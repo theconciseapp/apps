@@ -1,1 +1,3 @@
 [youtube=https://youtu.be/g27dMw1pEJE]https://theconciseapp.github.io/apps/hoo-banquet/img.png[/youtube]
+
+[img=https://theconciseapp.github.io/apps/hoo-banquet/img.png]test[/img]
