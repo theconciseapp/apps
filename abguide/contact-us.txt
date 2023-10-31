@@ -1,1 +1,4 @@
-Contact us now
+Contact us 
+
+[[whatsapp:[ws:user]]] 
+[[telegram:[tg:user]]]
