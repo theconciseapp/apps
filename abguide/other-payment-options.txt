@@ -1,1 +1,6 @@
-Coming soon!
+Make payment through Paystack here:
+https://paystack.com/pay/appbuilderguide
+
+After payment, send evidence of payment to [[whatsapp:[ws:num]]] along with your App Id
+
+Open menu, and click on App Id to copy it
