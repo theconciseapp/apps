@@ -3,4 +3,4 @@ https://paystack.com/pay/appbuilderguide
 
 After payment, send evidence of payment to [[whatsapp:[ws:user]]] along with your App Id
 
-_(To see your app id, open menu, scroll down and click on App Id to copy it)_
+_(To see your app id, open menu, scroll down and click on App Id to copy it)_<br><br>
