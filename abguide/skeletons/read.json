@@ -53,7 +53,20 @@
          
       ],
       "keywords":"change edit permission packaging"
-   },
+   }
+
+,
+  {
+      "path":"https://www.dropbox.com/scl/fi/6uodipi5l80li3myj68wq/change-app-icon.txt?rlkey=nsii528fae8hhtdngs8p10r5o&dl=1",
+      "title":"How to change your App's icon",
+      "sub_topics":[
+         
+      ],
+      "keywords":""
+   }
+  
+,
+   
     {
      "path":"file:///assets/notes/notes/folder1/import-files.html",
       "title":"Import/add Images, Js, Css or Other files",
