@@ -1,6 +1,7 @@
 2.0
 Added
-<div>New Features </div>
+<div>More tutorials </div>
+<div>Bug fixed </div>
 <div class="text-center" style="text-align: center;"><a class="d-inline-block btn btn-sm btn-info" href="https://drive.google.com/file/d/1EObjH0E43T-Khb7H6WYoOOD4NqnBI66L/view?usp=drivesdk">Update Now</a>
 </div>
 <!--palmstore|http://palmplaystore.com/app/soft_detail?itemID=s_5c6e4a6d22ad42de87b6dd25dd997cb3}
