@@ -1,6 +1,5 @@
 2.0
-Added
-<div>More tutorials </div>
+<div>Added more tutorials </div>
 <div>Bug fixed </div>
 <div class="text-center" style="text-align: center;"><a class="d-inline-block btn btn-sm btn-info" href="https://drive.google.com/file/d/1EObjH0E43T-Khb7H6WYoOOD4NqnBI66L/view?usp=drivesdk">Update Now</a>
 </div>
