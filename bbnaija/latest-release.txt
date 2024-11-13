@@ -1,5 +1,9 @@
 {"version":"1.3",
-"changes":"New Levels<br>",
+"changes":"
+<ul>
+ <li>New Levels</li>
+ </ul>
+",
 "force": 1,
 "platforms":
   [
