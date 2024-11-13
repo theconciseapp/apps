@@ -2,6 +2,8 @@
 Added
 <div>New levels </div>
 
-{amazon|http://www.amazon.com/gp/mas/dl/android?p=concise.school.attendance.ng}
-{link|http://www.bigbiblenaija.com.ng/bbnapp.apk}
+{"platform":"amazon"
+,"url":"http://www.amazon.com/gp/mas/dl/android?p=concise.school.attendance.ng","label":"Amazon Appstore"}
+{"platform":"link","url":"http://www.bigbiblenaija.com.ng/bbnapp.apk","label":"Direct download"}
+
 ##compulsory
