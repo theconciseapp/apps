@@ -2,9 +2,11 @@
 "changes":"New Levels<br>",
 "force": 1,
 "platforms":
-  {"platform":"amazon"
+  [
+    {"platform":"amazon"
 ,"url":"http://www.amazon.com/gp/mas/dl/android?p=concise.school.attendance.ng","label":"Amazon Appstore"},
 {"platform":"link",
 "url":"http://www.bigbiblenaija.com.ng/bbnapp.apk",
 "label":"Direct download"}
+]
 }
