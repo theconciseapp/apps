@@ -1,12 +1,13 @@
 {"version":"1.0",
 "changes":"<ul><li>New Levels</li></ul>",
 "force": 1,
+"app_name":"Big Bible Naija App",
 "platforms":
   [
     {"platform":"amazon"
-,"url":"http://www.amazon.com/gp/mas/dl/android?p=concise.school.attendance.ng","label":"Amazon Appstore"},
+,"url":"http://www.amazon.com/gp/mas/dl/android?p=concise.school.attendance.ng","label":"Amazon Appstore","icon":"fa fa-amazon"},
 {"platform":"link",
 "url":"http://www.bigbiblenaija.com.ng/bbnapp.apk",
-"label":"Direct download"}
+"label":"Direct download","icon":"fa fa-link"}
 ]
 }
