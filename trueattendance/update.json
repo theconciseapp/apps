@@ -1,0 +1,12 @@
+{"version":"1.1",
+"changes":"<ul><li>Dark Mode</li></ul>",
+"force": 1,
+"app_name":"True Attendance",
+"platforms":
+  [
+    {"platform":"link",
+"url":"https://oshobby.com.ng",
+"label":"Direct download",
+"icon":"fa fa-link"}
+]
+}
