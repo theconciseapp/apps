@@ -1,12 +1,12 @@
-{"version":"1.0",
-"changes":"<ul><li>Dark Mode</li></ul>",
+{"version":"1.2",
+"changes":"<ul><li>• Student Birthday Notification</li><li>•Faster attendance saving and syncing</li><li>• New report layout for better readability</li><li>• Fixed minor bugs and improved performance</li><li>• Dark mode support</li></ul>",
 "force": 0,
 "app_name":"True Attendance",
 "platforms":
   [
-    {"platform":"link",
-"url":"https://oshobby.com.ng",
+    {"platform":"Dropbox",
+"url":"https://www.dropbox.com/scl/fi/i2b13hnh3qqmceo5r1ff3/True-Attendance-v1.1.apk?rlkey=6l2aodn2kkar2zqo5t7ttyebl&st=bzhltgk4&dl=1",
 "label":"Direct download",
-"icon":"fa fa-link"}
+"icon":"fab fa-dropbox"}
 ]
 }
