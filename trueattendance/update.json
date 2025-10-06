@@ -1,5 +1,5 @@
-{"version":"1.2",
-"changes":"<style>.bg-white{ background: var(--body)!important; color: var(--text)!important;} #update-info-ul li{padding: 8px 16px; }</style><div style='backgrfound: var(--body);coglor: var(--text);'>New Update 🔊 <ul id='update-info-ul'><li>• Student Birthday Notification</li><li>•Faster attendance saving and syncing</li><li>• New report layout for better readability</li><li>• Fixed minor bugs and improved performance</li><li>• Dark mode support</li></ul></div>",
+{"version":"1.1",
+"changes":"<style>.bg-white{ background: var(--body)!important; color: var(--text)!important;} #update-info-ul li{padding: 8px 16px; }</style><div>New Update 🔊 <ul id='update-info-ul'><li>• Student Birthday Notification</li><li>•Faster attendance saving and syncing</li><li>• New report layout for better readability</li><li>• Fixed minor bugs and improved performance</li><li>• Dark mode support</li></ul></div>",
 "force": 0,
 "app_name":"True Attendance",
 "platforms":
