@@ -1,12 +1,18 @@
-{"version":"1.2",
-"changes":"<style>.bg-white{ background: var(--body)!important; color: var(--text)!important;} #update-info-ul li{padding: 8px 16px; }</style><div>New Update 🔊 <ul id='update-info-ul'><li>• Record students continous assessments tests</li><li>•Print report card/sheet</li><li>• Print Score sheets</li><li>• Fixed minor bugs and improved performance</li><li>• Record hoiidays</li></ul></div>",
+{"version":"1.5",
+"changes":"<style>.bg-white{ background: var(--body)!important; color: var(--text)!important;} #update-info-ul li{padding: 8px 16px; }</style><div>New Update 🔊 <ul id='update-info-ul'><li>• Generate Broadsheet</li> <li>• Subject positions</li><li>• Performance ranking</li><li>•Print report card/sheet</li><li>• Print Score sheets</li><li>• Fixed minor bugs and improved performance</li></ul></div>",
 "force": 0,
 "app_name":"True School",
 "platforms":
   [
+        {"platform":"Official",
+"url":"https://oshobby.com.ng/true-school",
+"label":"Official Site",
+"icon":"fas fa-link"},
     {"platform":"Dropbox",
-"url":"https://www.dropbox.com/scl/fi/dx1wcag5f4srl710ngif2/TrueSchool-v1.2.apk?rlkey=1zbds2u21whzmoa74zskcfbm8&st=y9c6bg10&dl=1",
-"label":"Click here to update",
+"url":"https://www.dropbox.com/scl/fi/dlbq9l6zcih8x00ms8yuo/True-School-v1.5.apk?rlkey=as3i2av8qg3uobiq57hx06x8s&st=wc5kydr5&dl=1",
+"label":"Dropbox",
 "icon":"fab fa-dropbox"}
+    
 ]
+  
 }
