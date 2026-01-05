@@ -1,6 +1,6 @@
-{"version":"1.5",
-"changes":"<style>.bg-white{ background: var(--body)!important; color: var(--text)!important;} #update-info-ul li{padding: 8px 16px; }</style><div>New Update 🔊 <ul id='update-info-ul'><li>• Generate Broadsheet</li> <li>• Subject positions</li><li>• Performance ranking</li><li>•Print report card/sheet</li><li>• Print Score sheets</li><li>• Fixed minor bugs and improved performance</li></ul></div>",
-"force": 0,
+{"version":"1.7",
+"changes":"<style>.bg-white{ background: var(--body)!important; color: var(--text)!important;} #update-info-ul li{padding: 8px 16px; }</style><div>New Update 🔊 <ul id='update-info-ul'><li>• Update student's Affective domains & Psychomotor</li><li>• Generate Broadsheet</li> <li>• Subject positions</li><li>• Performance ranking</li><li>•Print report card/sheet</li><li>• Print Score sheets</li><li>• Fixed minor bugs and improved performance</li></ul></div>",
+"force": 1,
 "app_name":"True School",
 "platforms":
   [
@@ -9,7 +9,7 @@
 "label":"Official Site",
 "icon":"fas fa-link"},
     {"platform":"Dropbox",
-"url":"https://www.dropbox.com/scl/fi/dlbq9l6zcih8x00ms8yuo/True-School-v1.5.apk?rlkey=as3i2av8qg3uobiq57hx06x8s&st=wc5kydr5&dl=1",
+"url":"https://www.dropbox.com/scl/fi/zjsn13ijq5rjra7ss43o6/True-School-v1.7.apk?rlkey=gl5o1e4bxde4ebtuw0qfiojnp&st=syg4z7hv&dl=1",
 "label":"Dropbox",
 "icon":"fab fa-dropbox"}
     
