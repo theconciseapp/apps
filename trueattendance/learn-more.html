@@ -1,9 +1,42 @@
+<style>
+  :root{
+--accent:#0b6efd;
+--muted:#6b7280;
+--card:#ffffff;
+}
+
+body.dark-mode{
+--card: rgba(0, 85, 80, 0.4);
+}
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;line-height:1.5;color:#0f172a;margin:0;background:var(--bg)}
+    .hero{
+max-width:1080px;
+margin:48px auto;
+padding:32px;
+background:linear-gradient(180deg,rgba(11,110,253,0.04),transparent);
+border-radius:12px;
+display:grid;
+grid-template-columns:1fr 360px;
+gap:24px;align-items:center
+}
+    
+    h1{font-size:1.6rem;margin:0 0 8px}
+    p.lead{margin:0;color:var(--muted)}
+
+.card{
+background:var(--card);padding:16px;border-radius:12px;box-shadow:0 6px 20px rgba(2,6,23,0.04)}
+   
+    
+ @media (max-width:880px){
+.hero{grid-template-columns:1fr;gap:16px;padding:20px}}
+</style>
+
 <div class="container">	
 	<div class="mt-3 logo-container"><img src="file:///assets/images/logo.png"></div>
 
 <section class="hero" aria-labelledby="hero-heading">
- <h1>True Attendance — Smart attendance for Nigerian primary &amp; secondary schools</h1>
-          <p class="lead">A product of <a class="site" href="https://oshobby.com.ng" target="_blank" rel="noopener">Oshobby Enterprise</a>, True Attendance helps teachers record class attendance quickly and generates accurate, concise Daily, Monthly, Termly, Session and Yearly attendance reports.</p>
+ <h1>True School App— The Smart attendance + Tests & Exam management app for Nigerian primary &amp; secondary schools</h1>
+          <p class="lead">A product of <a class="site" href="https://oshobby.com.ng" target="_blank" rel="noopener">Oshobby Enterprise</a>, True School App helps teachers record class attendance quickly and generates accurate, concise Daily, Monthly, Termly, Session and Yearly attendance reports. It also helps teachers record students continous assessments tests & exam, generate score sheets, broadsheets, students report sheets, and upload provisional results online.</p>
         </section>
      
 <section class="hero" aria-labelledby="hero-heading">
@@ -13,7 +46,7 @@
  
 </h2>
       <p class="lead">
-      	A School key is a unique identifier (simply a username) that you create when you register your school on our platform. For example, if the name of your school is "Amazing Grace International School of Excellence", you can create a nice school key like "Amazing" or "AGISE". This School key will be used by your teachers along with their staff keys(auto-generated) to login on <strong>True Attendance</strong> app to manage class attendance and submit online anytime, anyday.
+      	A School key is a unique identifier (simply a username) that you create when you register your school on our platform. For example, if the name of your school is "Amazing Grace International School of Excellence", you can create a nice school key like "Amazing" or "AGISE". This School key will be used by your school teachers along with their staff keys(generated when you add staffs) to login on <strong>True School</strong> app.
       </p>
      </div>
   </section>
@@ -21,20 +54,46 @@
 <section class="school-key-info" style="max-width:900px;margin: 20px auto;padding:24px;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,0.05)">
   <h2 style="font-size:1.4rem;margin-top:0;">Why use a School Key?</h2>
   <p style="margin-bottom:18px">
-    While individual teachers can use <strong>True Attendance</strong> app without a school key, but with a School Key, the experience becomes center-based and connected, unlocks full school-wide administration and reporting features.
+    While individual teachers can use <strong>True School</strong> app without a school key, but with a School Key, the experience becomes center-based and connected, unlocks full school-wide administration and reporting features.
   </p>
   
 <div style="display:grid; gap:16px">
     <div  class="card">
   <strong>Unified administration</strong>
  <br>
-   With a school key, all teachers share the same or uniform configurations such as School name, address, school term/session, resumption & closing time, logo e.t.c set by the school admin from the dashboard. The school admin sets up the school once on the dashboard, add Staffs (Teachers), create classes and assign classes to each staff.
+   With a school key, all teachers share the same or uniform configurations such as School name, address, school term/session, resumption & closing time, logo, stamp e.t.c set by the school admin from the dashboard. The school admin sets up the school once on the dashboard, add Staffs (Class teachers), create classes and assign classes to each staff.
   </div>
+  
     <div style="padding:14px;border-radius:8px" class="card">
       <strong>Centralized reporting</strong><br>
-      Teachers submit daily attendance directly to the dashboard, allowing the school admin to view, manage, and print reports with ease.
+      Teachers submit daily attendance directly to the dashboard from the app, allowing the school admin to view, manage, and print student's attendance reports & results with ease.
     </div>
+    
     <div style="padding:14px;border-radius:8px" class="card">
+      <strong>Parent access</strong><br>
+      Parents can view their child’s attendance daily, ensuring peace of mind that their children are present in school each day. They can also check their child's results at the comfort of their homes or offices.
+    </div>
+    
+      <div style="padding:14px;border-radius:8px" class="card">
+      <strong>Generate Income</strong><br>
+Buy result checker card pins at a very cheap price and sell to parents at your desired price. Card pins are used to check & print students results online.
+    </div>
+    
+  </div>
+  
+  <p style="margin-top:20px;">
+    <em>Tip:</em> Use a School Key if you want connected teachers, clear reports, and daily transparency for parents and administrators.
+  </p>
+</section>
+
+<div class="my-3 text-center">
+<a class="btn btn-primary" href="https://oshobby.com.ng/true-attendance/signin?action=register">Register now</a>
+</div>
+
+<section class="hero" aria-labelledby="hero-heading">
+	For more info, contact us via whatsapp: <a href="https://wa.me/2347078238550?text=Hello%20True%20Attendance"><i class="fab fa-whatsapp"></i> +2347078238550</a> or email us @ <a href="mailto:support@oshobby.com.ng">support@oshobby.com.ng</a>
+</section>
+</div>    <div style="padding:14px;border-radius:8px" class="card">
       <strong>Parent access</strong><br>
       Parents can view their child’s attendance daily, ensuring peace of mind that their children are present in school each day.
     </div>
